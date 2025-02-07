@@ -50,7 +50,7 @@
     "@angular/core": "13.3.11",
     "@angular/forms": "13.3.11",
     "@angular/localize": "13.3.11",
-    "@angular/platform-browser": "13.3.11",
+    "@angular/platform-browser": "19.1.5",
     "@angular/platform-browser-dynamic": "13.3.11",
     "@angular/router": "13.3.11",
     "@circlon/angular-tree-component": "10.0.0",
